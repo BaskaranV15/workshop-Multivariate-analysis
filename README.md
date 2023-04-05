@@ -55,3 +55,25 @@ plt.ylabel=("PRICE")
 plt.show() 
 ```
 # OUTPUT 
+## bivariant
+![output](b1.png)
+![output](b2.png)
+![output](b3.png)
+![output](b4.png)
+![output](b5.png)
+![output](b6.png)
+![output](b7.png)
+![output](b8.png)
+![output](b9.png)
+![output](b10.png)
+## multivariant
+### MEAN
+![output](m1.png)
+### MAX
+![output](m2.png)
+### SUM
+![output](m3.png)
+### MIN
+![output](m4.png)
+### HEATMAP
+![output](m5.png)
